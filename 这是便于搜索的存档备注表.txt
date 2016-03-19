@@ -8,7 +8,7 @@ Save3.rxdata
 无
 
 Save4.rxdata
-叛逆线
+理智线
 
 Save5.rxdata
 理智线
@@ -35,10 +35,10 @@ Save12.rxdata
 叛逆线
 
 Save13.rxdata
-无
+理智线
 
 Save14.rxdata
-无
+理智线
 
 Save15.rxdata
 无
